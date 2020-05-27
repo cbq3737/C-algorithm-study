@@ -1,0 +1,3 @@
+﻿  Man.cpp
+c:\users\user\desktop\알고리즘\study3\study3\man.cpp(87): warning C4715: 'SearchTree': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Study3.vcxproj -> C:\Users\user\Desktop\알고리즘\Study3\Debug\Study3.exe

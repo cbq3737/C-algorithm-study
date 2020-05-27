@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\user\desktop\알고리즘\study2\study2\main.cpp(25): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  study2.vcxproj -> C:\Users\user\Desktop\알고리즘\study2\Debug\study2.exe
